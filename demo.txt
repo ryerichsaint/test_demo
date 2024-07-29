@@ -1,2 +1,3 @@
 line 1 of git
 line 2 of git
+line 3 of git
